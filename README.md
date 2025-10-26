@@ -17,7 +17,9 @@ Presents the theory, design, and implementation of adaptive AI agents scalable o
 
 ## Quick Links
 • **Demo Video:** https://youtu.be/IsLqsGLNsuM?si=hJjcEHSZwumAe1Ou
+
 • **Live App:** https://agentic-ai-dashboard-a0a56762.base44.app
+
 • **Presentation:** https://docs.google.com/presentation/d/1hSKB-iGSJ-k9goclG96wtC1ogfonVjlKbIDsH-4Rvg8/edit?slide=id.g39d2be18b38_0_55#slide=id.g39d2be18b38_0_55
 
 ## Features
