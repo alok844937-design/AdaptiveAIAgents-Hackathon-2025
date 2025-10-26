@@ -32,7 +32,7 @@ Presents the theory, design, and implementation of adaptive AI agents scalable o
 
 ## Author
 Alok, Solo Developer  
-B.S. Data Science, IIT Patna  
+IIT Patna  
 Email: alok844937@gmail.com  
 GitHub: https://github.com/alok844937-design
 
